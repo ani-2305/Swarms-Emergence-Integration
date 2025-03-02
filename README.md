@@ -34,7 +34,7 @@ This repository demonstrates how to integrate [Swarms](https://github.com/kyegom
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ani-2305/Swarms-Emergence-Integration.git
+git clone https://github.com/yourusername/Swarms-Emergence-Integration.git
 cd Swarms-Emergence-Integration
 ```
 
